@@ -1,0 +1,29 @@
+D:\ASP.NET Work\POS\POS\bin\POS.dll.config
+D:\ASP.NET Work\POS\POS\bin\POS.dll
+D:\ASP.NET Work\POS\POS\bin\POS.pdb
+D:\ASP.NET Work\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\ASP.NET Work\POS\POS\obj\Debug\POS.dll
+D:\ASP.NET Work\POS\POS\obj\Debug\POS.pdb
+C:\Users\DIU\Downloads\POS1.3\POS\POS\bin\POS.dll.config
+C:\Users\DIU\Downloads\POS1.3\POS\POS\bin\POS.dll
+C:\Users\DIU\Downloads\POS1.3\POS\POS\bin\POS.pdb
+C:\Users\DIU\Downloads\POS1.3\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\DIU\Downloads\POS1.3\POS\POS\obj\Debug\POS.dll
+C:\Users\DIU\Downloads\POS1.3\POS\POS\obj\Debug\POS.pdb
+D:\ASP.NET Work\POS\POS\POS\bin\POS.dll.config
+D:\ASP.NET Work\POS\POS\POS\bin\POS.dll
+D:\ASP.NET Work\POS\POS\POS\bin\POS.pdb
+D:\ASP.NET Work\POS\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\ASP.NET Work\POS\POS\POS\obj\Debug\POS.dll
+D:\ASP.NET Work\POS\POS\POS\obj\Debug\POS.pdb
+C:\Users\student\Desktop\POS\POS\bin\POS.dll
+C:\Users\student\Desktop\POS\POS\bin\POS.pdb
+C:\Users\student\Desktop\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\POS\POS\obj\Debug\POS.dll
+C:\Users\student\Desktop\POS\POS\obj\Debug\POS.pdb
+D:\ASP.NET Work\POS 2.0\POS\POS\bin\POS.dll.config
+D:\ASP.NET Work\POS 2.0\POS\POS\bin\POS.dll
+D:\ASP.NET Work\POS 2.0\POS\POS\bin\POS.pdb
+D:\ASP.NET Work\POS 2.0\POS\POS\obj\Debug\POS.csprojResolveAssemblyReference.cache
+D:\ASP.NET Work\POS 2.0\POS\POS\obj\Debug\POS.dll
+D:\ASP.NET Work\POS 2.0\POS\POS\obj\Debug\POS.pdb
